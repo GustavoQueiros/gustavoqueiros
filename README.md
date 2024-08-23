@@ -3,7 +3,6 @@
 - 🐱‍👤I'm currently working with backend
 - ☕ Studying Java
 - 📫 How to reach me: gustavo.dev47@gmail.com
-- 🗣 Pronouns: he/him
 
 <div>
 <h2> About Me </h2>
