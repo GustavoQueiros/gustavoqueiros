@@ -1,6 +1,6 @@
 ## System.out.println("Hello World, I`m Gustavo");
 
-- 🐱‍👤I'm currently working with backend
+- 🐱‍👤I'm currently working with backend (Java)
 - ☕ Studying Java
 - 📫 How to reach me: gustavo.dev47@gmail.com
 
