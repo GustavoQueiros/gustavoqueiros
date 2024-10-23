@@ -18,7 +18,7 @@ I hold a degree in Systems Analysis and Development and am currently deepening m
   <img align="center" alt="Gustavo-Aintellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Gustavo-insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Gustavo-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Gustavo-cat" height="200" width="200" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+  <img align="right" alt="Gustavo-cat" height="100" width="100" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 </div>
 
 ##
