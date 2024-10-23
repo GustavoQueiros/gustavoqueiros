@@ -9,6 +9,7 @@
 I hold a degree in Systems Analysis and Development and am currently deepening my studies in Java, aiming to enhance my backend development skills. I have experience with AWS, which provides me with a solid foundation in cloud services. Additionally, I am always seeking new challenges and opportunities to apply my knowledge. My goal is to grow professionally and contribute to efficient and innovative solutions.  
 </div>
 
+## Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
