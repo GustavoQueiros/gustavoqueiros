@@ -10,7 +10,6 @@ I hold a degree in Systems Analysis and Development and am currently deepening m
 </div>
 
 ## Technologies
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gustavo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
