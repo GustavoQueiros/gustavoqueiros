@@ -6,9 +6,21 @@
 
 ###
 
-<p align="left"> (🇺🇸) I hold a degree in Systems Analysis and Development and am currently deepening my studies in Java, aiming to enhance my backend development skills. I have experience with AWS, which provides me with a solid foundation in cloud services. Additionally, I am always seeking new challenges and opportunities to apply my knowledge. My goal is to grow professionally and contribute to efficient and innovative solutions.</p>
+<p align="left"> (🇺🇸) I am a Backend software developer with experience in building scalable and efficient applications using Java and Spring Boot. I have a solid understanding of AWS and Docker and I’m proficient in both SQL and NoSQL databases. I have also worked with CI/CD pipelines to ensure continuous integration and delivery. Currently, I am expanding my knowledge in Microservices to build even more modular and scalable systems.
+
 <p>
-  (🇧🇷) Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou aprofundando meus estudos em Java, visando aprimorar minhas habilidades em desenvolvimento backend. Tenho experiência com AWS, o que me proporciona uma base sólida em serviços de nuvem. Além disso, estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento. Meu objetivo é crescer profissionalmente e contribuir com soluções eficientes e inovadoras.
+  (🇧🇷) Sou um desenvolvedor de software Backend, com experiência na construção de aplicações escaláveis e eficientes utilizando Java e Spring Boot. Tenho um entendimento sólido de AWS e Docker e sou proficiente em bancos de dados SQL e NoSQL. Também trabalhei com pipelines de CI/CD para garantir a integração e entrega contínua. Atualmente, estou expandindo meus conhecimentos em Microsserviços para construir sistemas ainda mais modulares e escaláveis.
+</p>
+
+## Skills
+
+- **Java & Spring Boot** - Development of RESTful APIs and microservices.
+- **AWS** - Experience with cloud services (EC2, RDS, S3, etc.).
+- **Docker** - Containerization and management of applications using Docker.
+- **SQL & NoSQL** - Database design, implementation, and optimization.
+- **CI/CD** - Setting up pipelines for continuous integration and deployment (Jenkins, GitLab CI).
+- **Unit Testing** - Writing unit tests using **JUnit** and **Mockito**.
+- **Microservices** - Studying and implementing microservices architecture.
 </p>
 
 ###
