@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me 👨🏻‍💻</h2>
 
 ###
 
@@ -12,7 +12,7 @@
   (🇧🇷) Sou um desenvolvedor de software Backend, com experiência na construção de aplicações escaláveis e eficientes utilizando Java e Spring Boot. Tenho um entendimento sólido de AWS e Docker e sou proficiente em bancos de dados SQL e NoSQL. Também trabalhei com pipelines de CI/CD para garantir a integração e entrega contínua. Atualmente, estou expandindo meus conhecimentos em Microsserviços para construir sistemas ainda mais modulares e escaláveis.
 </p>
 
-## Skills
+## Skills ⚙️
 
 - **Java & Spring Boot** - Development of RESTful APIs and microservices.
 - **AWS** - Experience with cloud services (EC2, RDS, S3, etc.).
