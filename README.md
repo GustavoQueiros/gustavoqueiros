@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left"> (US) I hold a degree in Systems Analysis and Development and am currently deepening my studies in Java, aiming to enhance my backend development skills. I have experience with AWS, which provides me with a solid foundation in cloud services. Additionally, I am always seeking new challenges and opportunities to apply my knowledge. My goal is to grow professionally and contribute to efficient and innovative solutions.</p>
+<p align="left"> (🇺🇸) I hold a degree in Systems Analysis and Development and am currently deepening my studies in Java, aiming to enhance my backend development skills. I have experience with AWS, which provides me with a solid foundation in cloud services. Additionally, I am always seeking new challenges and opportunities to apply my knowledge. My goal is to grow professionally and contribute to efficient and innovative solutions.</p>
 <p>
-  (BR) Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou aprofundando meus estudos em Java, visando aprimorar minhas habilidades em desenvolvimento backend. Tenho experiência com AWS, o que me proporciona uma base sólida em serviços de nuvem. Além disso, estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento. Meu objetivo é crescer profissionalmente e contribuir com soluções eficientes e inovadoras.
+  (🇧🇷) Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou aprofundando meus estudos em Java, visando aprimorar minhas habilidades em desenvolvimento backend. Tenho experiência com AWS, o que me proporciona uma base sólida em serviços de nuvem. Além disso, estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento. Meu objetivo é crescer profissionalmente e contribuir com soluções eficientes e inovadoras.
 </p>
 
 ###
