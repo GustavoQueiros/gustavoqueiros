@@ -76,12 +76,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavoqueiros/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavoqueiros/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="https://hub.docker.com/u/gustavoq523" target="_blank">
+  <a href="https://hub.docker.com/u/gustavoq523" target="_blank" rel="noopener noreferrer">
     <img src="https://www.svgrepo.com/show/349342/docker.svg" width="52" height="40" alt="DockerHub logo"/>
   </a>
 </div>
+
 
 ###
